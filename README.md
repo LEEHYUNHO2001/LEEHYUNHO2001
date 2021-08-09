@@ -1,8 +1,6 @@
 <div align='center'>
             
 ### 😄 HyunHo Lee  GitHub 😄
-  
-<br> 
 <br> 
   
 <!--
@@ -53,5 +51,7 @@ Here are some ideas to get you started:
 
 ### ✨ stats ✨
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNHO2001&show_icons=true&theme=highcontrast)
-
+            
+ [Velog 클릭](https://velog.io/@leehyunho2001/series)
 </div>
+

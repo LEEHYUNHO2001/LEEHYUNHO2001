@@ -45,6 +45,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PostgreSQL-004?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00591?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
+<div>
+            <a href="https://velog.io/@leehyunho2001/series">velog</a>
+</div>
   
 <br> 
 <br> 
@@ -52,6 +55,6 @@ Here are some ideas to get you started:
 ### ✨ stats ✨
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNHO2001&show_icons=true&theme=highcontrast)
             
- [Velog 클릭](https://velog.io/@leehyunho2001/series)
+
 </div>
 

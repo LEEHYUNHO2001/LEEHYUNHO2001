@@ -45,9 +45,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PostgreSQL-004?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00591?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
-<div>
+<h2>
             <a href="https://velog.io/@leehyunho2001/series">velog</a>
-</div>
+</h2>
   
 <br> 
 <br> 

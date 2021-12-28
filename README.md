@@ -29,7 +29,7 @@
             <img src="https://img.shields.io/badge/MySQL-00591?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
             
-### 👯 My Velog 👯
+### 👯 My Velog
             
 <h2>
             <a href="https://velog.io/@leehyunho2001/series"><img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
@@ -37,7 +37,7 @@
 
 <br> 
 
-### ✨ stats ✨
+### ✨ stats
 <span>![GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNHO2001&show_icons=true&theme=highcontrast)</span>
             
 

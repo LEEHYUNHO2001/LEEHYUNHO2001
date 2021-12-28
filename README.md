@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="Sass" />
+            <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Scss&logoColor=white" alt="Scss" />
 </div>
 <div>
             <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=NodeJs&logoColor=white"/>
